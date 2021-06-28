@@ -35,12 +35,12 @@ Artistic – nhóm Nghệ thuật
 Social – nhóm Xã hội
 Enterprising – nhóm Quản lý
 Conventional – nhóm Nghiệp vụ
-Đây là một bài test được công nhận rộng rãi, hoàn toàn miễn phí và sẽ giúp bạn giải quyết “mắt xích” đầu tiên trong việc tự định hướng của mình, đó chính là xác định “sở thích”. Bạn có thể làm bài test miễn phí tại ĐÂY. 
+Đây là một bài test được công nhận rộng rãi, hoàn toàn miễn phí và sẽ giúp bạn giải quyết “mắt xích” đầu tiên trong việc tự định hướng của mình, đó chính là xác định “sở thích”. Bạn có thể làm bài test miễn phí tại [ĐÂY](https://www.assessment.com/). 
 
  The MAPP™ Career Assessment Test (MAPP): 
 MAPP test có lẽ là bài test về tính cách và nghề nghiệp cụ thể nhất trong các bài test trên thị trường hiện nay. Thông qua khoảng 80 câu trắc nghiệm, bạn sẽ có một bản báo cáo đầy đủ về việc bạn thích làm loại công việc gì, bạn thích làm việc đó như thế nào, bạn làm việc với con người, số liệu, ngôn ngữ ra sao? Từ đó hệ thống sẽ gợi ý cho bạn các công việc phù hợp. 
 
-Tuy nhiên, nhược điểm của bài test này là có phí, cụ thể là khoảng 90$ cho một kết quả cụ thể chi tiết. Mặc dù vậy, bạn cũng có thể tham khảo sample miễn phí trên mạng, tại ĐÂY. 
+Tuy nhiên, nhược điểm của bài test này là có phí, cụ thể là khoảng 90$ cho một kết quả cụ thể chi tiết. Mặc dù vậy, bạn cũng có thể tham khảo sample miễn phí trên mạng, tại [ĐÂY](https://www.onlinepersonalitytests.org/riasec/). 
 
 MBTI: 
 Trắc nghiệm MBTI là viết tắt của cụm từ Myers-Briggs Type Indication – sử dụng các câu hỏi tâm lý để tìm hiểu tính cách và cách mà con người nhận thức thế giới xung quanh, từ đó đưa ra quyết định cho một vấn đề nào đó. Sau khi hoàn thành bài trắc nghiệm, bạn sẽ nhận được kết quả là 1 trong 16 nhóm tính cách, mà việc phân chia các nhóm tính cách này được xây dựng dựa trên 4 tiêu chí:
@@ -53,7 +53,7 @@ Kết quả của MBTI là 16 nhóm tính cách với các đặc trưng cụ th
 
 Điểm trừ của MBTI là tuy là một bài trắc nghiệm phổ biến, nhưng MBTI lại không được các nhà tâm lý học ủng hộ. Lý do được đưa ra gồm có: không có nền tảng lý thuyết vững chắc, thiếu độ xác thực và kiểm chứng vì chưa có khảo sát sau khi thực hiện trắc nghiệm mọi người có tìm được công việc tốt hay phù hợp với mình không, có cảm thấy hạnh phúc hơn không… Tuy vậy, MỞ cho rằng đây vẫn là một nguồn tham khảo khá hay ho để bạn lựa chọn, bạn nhé!
 
-Làm test tại ĐÂY.
+Làm test tại [ĐÂY](https://www.16personalities.com/free-personality-test).
 
 Enneagram: 
 Enneagram là bài test trắc nghiệm tính cách bao gồm 9 nhóm tính cách khác nhau, với mức độ phức tạp ngang ngửa MBTI. 
@@ -62,9 +62,5 @@ Bài test sẽ cung cấp cho bạn kết quả phân tích tính cách của m�
 
 Mặc dù Enneagram chia tính cách thành 9 nhóm khác nhau nhưng trong mỗi con người của chúng ta đều có sự kết hợp của các nhóm tính cách này và bài test sẽ trả cho bạn kết quả là số điểm ở từng nhóm tính cách. Không chỉ có vậy, Enneagram còn đưa ra lời khuyên đối với những ưu điểm và các cách để bạn tự khắc phục nhược điểm, hạn chế của bản thân. Enneagram được đánh giá là có độ ổn định và độ chuẩn xác tương đối cao, xét trên hai phương diện này, Enneagram có một vị trí khả quan hơn MBTI tương đối.
 <!-- more -->
-
-Alembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]
-
-The anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]
 
 _Originally from [MỞ - Mơ và Hỏi](https://movahoi.wordpress.com/2021/05/09/lam-the-nao-de-tu-dinh-huong-nghe-nghiep/)_
