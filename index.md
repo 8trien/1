@@ -5,7 +5,7 @@ feature_text: Welcome
 ## Một dự án Giáo dục tại Ninh Bình
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
-excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng."
+excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực phía Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng."
 ---
 
 Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng..
