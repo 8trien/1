@@ -89,7 +89,6 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 ### Demo map embed
 
 {% include map.html id="15AQQCs2hZyyGBm9Cbm9im2ilgVNbXl7W" title="Coffee shop map" %}
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=15AQQCs2hZyyGBm9Cbm9im2ilgVNbXl7W" width="640" height="480"></iframe>
 ``` html
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
 ```
