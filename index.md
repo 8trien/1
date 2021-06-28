@@ -5,7 +5,7 @@ title: Nhóm Học tập Binhminh Knowledge
 
 
 
-feature_text: |
+feature_text:
   ## Thông tin về Nhóm
   Một dự án Giáo dục tại Ninh Bình
 feature_image: "https://picsum.photos/1300/400?image=989"
