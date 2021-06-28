@@ -1,4 +1,4 @@
-- 👻 [Mở khóa tri thức
+- 👻 Mở khóa tri thức
 
   {% include button.html text="Monster Box" link="https://www.facebook.com/teammonsterbox/" color="#0d94e7" %}
   
