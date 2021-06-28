@@ -1,7 +1,7 @@
 ---
 title: Nhóm Học tập Binhminh Knowledge
 
-feature_text: (**Chào mừng bạn đến với Nhóm**)
+feature_text:
 ## WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
