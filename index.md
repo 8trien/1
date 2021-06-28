@@ -1,22 +1,22 @@
 ---
 title: Nhóm Học tập Binhminh Knowledge
 
-feature_text: Welcome
-## Một dự án Giáo dục tại Ninh Bình
+feature_text: Một dự án Giáo dục tại Ninh Bình
+## WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
 excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực phía Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng."
 ---
 
-Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng..
+Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực phía Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng..
 
 {% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Buy me a book 📖" link="nhanam.com.vn" color="#f68140" %} {% include button.html text="Open-minded" icon="spotify" link="https://movahoi.wordpress.com/" color="#0d94e7" %} {% include button.html text="Monster Box ☀️" link="https://www.facebook.com/teammonsterbox/" %}
 
 ## Mục đích thành lập
 
-- Hướng đến **cung cấp thêm các thông tin, định hướng, kiến thức khoa học bổ ích** khi còn ngồi trên ghế nhà trường để chuẩn bị cho giai đoạn tiếp theo.
-- **Chia sẻ kinh nghiệm, thảo luận và đưa ra những giải pháp** cho các vấn đề mà các thành viên thường gặp phải.
-- **Tạo mạng lưới mối quan hệ**, giúp các đối tượng tham dự có thể cùng nhau chia sẻ kinh nghiệm, học hỏi lẫn nhau, từ đó, giúp các bạn có thêm những góc nhìn mới.
+- Hướng đến cung cấp thêm các thông tin, định hướng, kiến thức khoa học bổ ích khi còn ngồi trên ghế nhà trường để chuẩn bị cho giai đoạn tiếp theo.
+- Chia sẻ kinh nghiệm, thảo luận và đưa ra những giải pháp cho các vấn đề mà các thành viên thường gặp phải.
+- Tạo mạng lưới mối quan hệ, giúp các đối tượng tham dự có thể cùng nhau chia sẻ kinh nghiệm, học hỏi lẫn nhau, từ đó, giúp các bạn có thêm những góc nhìn mới.
 
 
 
@@ -24,6 +24,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 - Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
 - Các cá nhân cùng chung lý tưởng
+
 
 ## Hình thức hoạt động
 ### Online
@@ -41,6 +42,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 
 ### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
+
 
 
 ## Tầm nhìn
@@ -64,8 +66,11 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có kỹ năng căn bản về các công cụ làm việc của Microsoft (Docs, Excel, PowerPoint) và Google (Drive, Mail, Calendar…).
 - Tuân thủ theo những quy định và điều khoản của Nhóm khi đã trở thành thành viên của tổ chức.
 
-### Powered by
-- **Contact form** [Gmail](https://mail.google.com/)
-- Designed with **[Github](https://www.github.io/)**
-
 # Hope you have a shining day. Thank you.
+
+### Thông tin liên lạc
+- **Email** binhminhknowledge@gmail.com
+- **Zalo/Phone/Message** 0363127902
+
+### Free-site by **[Github](https://www.github.io/)**
+
