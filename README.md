@@ -24,9 +24,9 @@
 - [Page and Post options](#page-and-post-options)
 - [Credits](#credits)
 
-## About
+## Thông tin về Nhóm
 
-**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
+** Nhóm Học tập Binhminh Knowledge [Phat Huy](https://www.facebook.com/profile.php?id=100069102613554/) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng**
 
 ## Features
 
