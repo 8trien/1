@@ -18,3 +18,9 @@ aside: true
   {% include button.html text="Spiderum" link="https://spiderum.com" color="#f68140" %}
 - Bình thường một cách bất thường
 {% include button.html text="Oddly-Podcast" link="https://oddly-podcast.com/" color="#24292e" %}
+
+
+### Địa điểm
+
+{% include map.html id="15AQQCs2hZyyGBm9Cbm9im2ilgVNbXl7W" title="Binhminh Town" %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=15AQQCs2hZyyGBm9Cbm9im2ilgVNbXl7W" width="640" height="480"></iframe>
