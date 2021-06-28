@@ -56,13 +56,8 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 ### Offline
 
 - Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
-- _(#Trao đổi sách, tài liệu.)_
+- _Trao đổi sách, tài liệu._
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
 ### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
 
@@ -73,4 +68,17 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Cộng đồng bạn trẻ ham học hỏi, có trách nhiệm với bản thân và cộng đồng.
 - Trở thành Tổ chức Phi lợi nhuận về Giáo dục, giúp đỡ các dự án trong khu vực.
 
-(https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+
+## Thông tin về tuyển thành viên
+### Quyền lợi khi trở thành thành viên
+
+- Mở rộng mạng lưới mối quan hệ đến các thành viên có cùng chí hướng và các anh chị đã có kinh nghiệm trong hoạt động xã hội.
+- Được lắng nghe những kinh nghiệm về hoạt động xã hội cũng như học đại học từ các thành viên Ban Tổ Chức.
+- Có được thêm các kỹ năng cần thiết cho việc học tập sinh sống sau này.
+### Yêu cầu chung cho ứng viên
+
+- Có sự quan tâm và tìm hiểu về Nhóm
+- Có tinh thần học hỏi từ những người xung quanh.
+- Thể hiện lòng nhiệt huyết và tinh thần trách nhiệm cao trong công việc.
+- Có kỹ năng căn bản về các công cụ làm việc của Microsoft (Docs, Excel, PowerPoint) và Google (Drive, Mail, Calendar…).
+- Tuân thủ theo những quy định và điều khoản của Nhóm khi đã trở thành thành viên của tổ chức.
