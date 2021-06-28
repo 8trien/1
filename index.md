@@ -10,7 +10,7 @@ excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbett
 
 Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng..
 
-{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Buy me a book 📖" link="nhanam.com.vn" color="#f68140" %} {% include button.html text="Watch me" icon="youtube" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Monster Box ☀️" link="https://www.facebook.com/teammonsterbox/" %}
+{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Buy me a book 📖" link="nhanam.com.vn" color="#f68140" %} {% include button.html text="Open-minded" icon="spotify" link="https://movahoi.wordpress.com/" color="#0d94e7" %} {% include button.html text="Monster Box ☀️" link="https://www.facebook.com/teammonsterbox/" %}
 
 ## Mục đích thành lập
 
@@ -28,8 +28,6 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
 - Các cá nhân cùng chung lý tưởng
 
-- [vietcetera](https://www.vietcetera.com/)
-
 ## Hình thức hoạt động
 ### Online
 
@@ -37,18 +35,18 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Cập nhật thông tin, chia sẻ những góc nhìn rộng mở đến từ các thành viên đã được trải nghiệm ở môi trường mới.
 
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+- 👻 Think ouside the box
+  [![Mở khóa tri thức](https://www.netlify.com/img/deploy/button.svg)](https://www.facebook.com/teammonsterbox/){:style="background: none"}
+- 🔓 Nơi mỗi người trẻ được mơ, được học và được kết nối
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+  [![Deploy to Mở](https://assets.forestry.io/import-to-forestry.svg)](https://movahoi.wordpress.com/){:style="background: none"}  
+  [![Deploy to Fanpage](https://www.netlify.com/img/deploy/button.svg)](https://www.facebook.com/mo.giaoduc/){:style="background: none"}
+- 💠 Góc nhìn đa chiều về Việt Nam hiện đại
+  [![Deploy to Vietcetera](https://www.netlify.com/img/deploy/button.svg)](https://vietcetera.com/){:style="background: none"}
+- :spiderum: Nền tảng chia sẻ - thảo luận dành cho người Việt. 
+  {% include button.html text="Spiderum" link="https://spiderum.com" color="#24292e" %}
+- 🚀 Bình thường một cách bất thường
+  [![Oddly Normal](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://oddly-podcast.com/){:style="background: none"}
 
 ### Offline
 
