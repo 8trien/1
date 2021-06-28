@@ -5,10 +5,10 @@ feature_text: Một dự án Giáo dục tại Ninh Bình
 ## WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
-excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng.."
+excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng."
 ---
 
-Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực phía Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng..
+Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng.
 
 {% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Buy me a book 📖" link="nhanam.com.vn" color="#f68140" %} {% include button.html text="Open-minded" icon="spotify" link="https://movahoi.wordpress.com/" color="#0d94e7" %} {% include button.html text="Monster Box ☀️" link="https://www.facebook.com/teammonsterbox/" %}
 
@@ -23,7 +23,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 ## Đối tượng hướng đến
 
 - Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
-- Các cá nhân cùng chung lý tưởng
+- Các cá nhân cùng chung lý tưởng.
 
 
 ## Hình thức hoạt động
