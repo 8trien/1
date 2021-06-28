@@ -1,7 +1,7 @@
 ---
 title: Nhóm Học tập Binhminh Knowledge
 
-feature_text: Một dự án Giáo dục tại Ninh Bình
+feature_text: **Một dự án Giáo dục tại Ninh Bình
 ## WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
@@ -10,7 +10,7 @@ excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbett
 
 Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng.
 
-{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Buy me a book 📖" link="nhanam.com.vn" color="#f68140" %} {% include button.html text="Open-minded" icon="spotify" link="https://movahoi.wordpress.com/" color="#0d94e7" %} {% include button.html text="Monster Box ☀️" link="https://www.facebook.com/teammonsterbox/" %}
+{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Buy me a book 📖" link="nhanam.vn" color="#f68140" %} {% include button.html text="Open-minded" icon="youtube" link="https://movahoi.wordpress.com/" color="#0d94e7" %} {% include button.html text="Monster Box ☀️" link="https://www.facebook.com/teammonsterbox/" %}
 
 ## Mục đích thành lập
 
@@ -176,5 +176,5 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - **Email** binhminhknowledge@gmail.com
 - **Zalo/Phone/Message** 0363127902
 
-### Free-site by **[Github](https://www.github.io/)**
+### Hỗ trợ bởi **[GitHub Pages](https://www.pages.github.io/)**
 
