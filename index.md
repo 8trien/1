@@ -7,9 +7,9 @@ title: Nhóm Học tập Binhminh Knowledge
 
 feature_text: |
   ## Thông tin về Nhóm
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  Một dự án Giáo dục tại Ninh Bình
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Nhóm Học tập Binhminh Knowledge [Fanpage](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng."
+excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng."
 ---
 
 Nhóm Học tập Binhminh Knowledge [Fanpage](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng..
