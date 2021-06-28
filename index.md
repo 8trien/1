@@ -18,10 +18,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - **Chia sẻ kinh nghiệm, thảo luận và đưa ra những giải pháp** cho các vấn đề mà các thành viên thường gặp phải.
 - **Tạo mạng lưới mối quan hệ**, giúp các đối tượng tham dự có thể cùng nhau chia sẻ kinh nghiệm, học hỏi lẫn nhau, từ đó, giúp các bạn có thêm những góc nhìn mới.
 
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Canva](https://www.canva.com/)** in mind
-- Has documentation
+
 
 ## Đối tượng hướng đến
 
@@ -42,15 +39,11 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
   
 - 🔓 Nơi mỗi người trẻ được mơ, được học và được kết nối
  {% include button.html text="MỞ - Mơ và Hỏi" link="https://movahoi.wordpress.com//" color="#f68140" %}
-  [Fanpage MỞ](https://www.facebook.com/img/deploy/button.svg)](https://www.facebook.com/mo.giaoduc/){:style="background: none"}
-  
 - 💠 Góc nhìn đa chiều về Việt Nam hiện đại
   {% include button.html text="Vietcetera" link="https://www.vietcetera.com/" color="#24292e" %}
 - 🕷️ Nền tảng chia sẻ - thảo luận dành cho người Việt. 
   {% include button.html text="Spiderum" link="https://spiderum.com" color="#f68140" %}
 - 🚀 Bình thường một cách bất thường
-  [![Oddly Normal]
-  
 {% include button.html text="Oddly-Podcast" link="https://oddly-podcast.com/" color="#24292e" %}
   
 ### Offline
@@ -82,3 +75,9 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Thể hiện lòng nhiệt huyết và tinh thần trách nhiệm cao trong công việc.
 - Có kỹ năng căn bản về các công cụ làm việc của Microsoft (Docs, Excel, PowerPoint) và Google (Drive, Mail, Calendar…).
 - Tuân thủ theo những quy định và điều khoản của Nhóm khi đã trở thành thành viên của tổ chức.
+
+### Powered by
+- **Contact form** [Gmail](https://mail.google.com/)
+- Designed with **[Github](https://www.github.io/)**
+
+# Hope you have a shining day. Thank you.
