@@ -1,10 +1,6 @@
 ---
 title: Nhóm Học tập Binhminh Knowledge
 
-1. Chúng mình là ai?
-
-
-
 feature_text:
   ## Thông tin về Nhóm
   Một dự án Giáo dục tại Ninh Bình
