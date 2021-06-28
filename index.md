@@ -36,18 +36,23 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 
 - 👻 Think ouside the box
-  [![Mở khóa tri thức](https://www.netlify.com/img/deploy/button.svg)](https://www.facebook.com/teammonsterbox/){:style="background: none"}
+  [![Mở khóa tri thức]
+  
+  {% include button.html text="Monster Box" link="https://www.facebook.com/teammonsterbox/" color="#24292e" %}
+  
 - 🔓 Nơi mỗi người trẻ được mơ, được học và được kết nối
-
-  [![Deploy to Mở](https://assets.forestry.io/import-to-forestry.svg)](https://movahoi.wordpress.com/){:style="background: none"}  
-  [![Deploy to Fanpage](https://www.netlify.com/img/deploy/button.svg)](https://www.facebook.com/mo.giaoduc/){:style="background: none"}
+ {% include button.html text="MỞ - Mơ và Hỏi" link="https://movahoi.wordpress.com//" color="#24292e" %}
+  [![Deploy to Fanpage](https://www.facebook.com/img/deploy/button.svg)](https://www.facebook.com/mo.giaoduc/){:style="background: none"}
+  
 - 💠 Góc nhìn đa chiều về Việt Nam hiện đại
   [![Deploy to Vietcetera](https://www.netlify.com/img/deploy/button.svg)](https://vietcetera.com/){:style="background: none"}
-- :spiderum: Nền tảng chia sẻ - thảo luận dành cho người Việt. 
+- 🕷️ Nền tảng chia sẻ - thảo luận dành cho người Việt. 
   {% include button.html text="Spiderum" link="https://spiderum.com" color="#24292e" %}
 - 🚀 Bình thường một cách bất thường
-  [![Oddly Normal](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://oddly-podcast.com/){:style="background: none"}
-
+  [![Oddly Normal]
+  
+{% include button.html text="Oddly-Podcast" link="https://oddly-podcast.com/" color="#24292e" %}
+  
 ### Offline
 
 - Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
