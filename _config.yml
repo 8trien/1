@@ -96,10 +96,10 @@ lang: en-GB # Set the site language
 title: "BMK" # Site name or title, also used in jekyll-seo-tag
 logo: "/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Kiến thức" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://facebook.com/bmbetter" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://binhminhknowledge.me"
+email: "binhminhknowledge@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -125,11 +125,11 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
-- title: Recommend
+- title: Knowledge
   url: /elements/
 - title: Search
   url: /search/
-- title: Overview
+- title: Summary
   url: /categories/
 
 navigation_footer:
@@ -139,8 +139,8 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/
   Instagram: https://www.ingstagram.com
-  Facebook: https://facebook.com/
-  link: vefa.org
+  Facebook: https://facebook.com/bmbetter
+  link: veffa.org
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
