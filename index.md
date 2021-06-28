@@ -154,8 +154,9 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 
 
-### Truyền thông
-- Mô tả công việc:
+## Truyền thông
+
+### Mô tả công việc:
 - Quản lý các kênh truyền thông xã hội (Page và Group Facebook).
 - Giải đáp thắc mắc và tương tác với người dùng về nhóm (online lẫn offline).
 - Thiết kế ảnh đi kèm với các bài viết của Ban Nội dung.
