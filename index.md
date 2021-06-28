@@ -38,16 +38,16 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - 👻 Think ouside the box
   [![Mở khóa tri thức]
   
-  {% include button.html text="Monster Box" link="https://www.facebook.com/teammonsterbox/" color="#24292e" %}
+  {% include button.html text="Monster Box" link="https://www.facebook.com/teammonsterbox/" color="#0d94e7" %}
   
 - 🔓 Nơi mỗi người trẻ được mơ, được học và được kết nối
- {% include button.html text="MỞ - Mơ và Hỏi" link="https://movahoi.wordpress.com//" color="#24292e" %}
-  [![Deploy to Fanpage](https://www.facebook.com/img/deploy/button.svg)](https://www.facebook.com/mo.giaoduc/){:style="background: none"}
+ {% include button.html text="MỞ - Mơ và Hỏi" link="https://movahoi.wordpress.com//" color="#f68140" %}
+  [Fanpage MỞ](https://www.facebook.com/img/deploy/button.svg)](https://www.facebook.com/mo.giaoduc/){:style="background: none"}
   
 - 💠 Góc nhìn đa chiều về Việt Nam hiện đại
-  [![Deploy to Vietcetera](https://www.netlify.com/img/deploy/button.svg)](https://vietcetera.com/){:style="background: none"}
+  {% include button.html text="Vietcetera" link="https://www.vietcetera.com/" color="#24292e" %}
 - 🕷️ Nền tảng chia sẻ - thảo luận dành cho người Việt. 
-  {% include button.html text="Spiderum" link="https://spiderum.com" color="#24292e" %}
+  {% include button.html text="Spiderum" link="https://spiderum.com" color="#f68140" %}
 - 🚀 Bình thường một cách bất thường
   [![Oddly Normal]
   
