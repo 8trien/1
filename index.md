@@ -10,39 +10,32 @@ excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbett
 
 Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học đến từ các trường THPT khu vực miền Bắc với tinh thần phát triển những kỹ năng của bản thân; chủ động mở rộng quan hệ giao lưu học hỏi; trách nhiệm với gia đình và cộng đồng..
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☀️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Watch it" icon="youtube" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ☀️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Buy me a book 📖" link="nhanam.com.vn" color="#f68140" %} {% include button.html text="Watch me" icon="youtube" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Monster Box ☀️" link="https://www.facebook.com/teammonsterbox/" %}
 
-## Features
+## Mục đích thành lập
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
+- Hướng đến **cung cấp thêm các thông tin, định hướng, kiến thức khoa học bổ ích** khi còn ngồi trên ghế nhà trường để chuẩn bị cho giai đoạn tiếp theo.
+- **Chia sẻ kinh nghiệm, thảo luận và đưa ra những giải pháp** cho các vấn đề mà các thành viên thường gặp phải.
+- **Tạo mạng lưới mối quan hệ**, giúp các đối tượng tham dự có thể cùng nhau chia sẻ kinh nghiệm, học hỏi lẫn nhau, từ đó, giúp các bạn có thêm những góc nhìn mới.
+
 - Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
 - **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
+- Designed with **[Canva](https://www.canva.com/)** in mind
 - Has documentation
 
-## Examples
+## Đối tượng hướng đến
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+- Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
+- Các cá nhân cùng chung lý tưởng
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- [vietcetera](https://www.vietcetera.com/)
 
-## Installation
+## Hình thức hoạt động
+### Online
 
-### Quick setup
+- Các bài viết chia sẻ kinh nghiệm, giải pháp về những vấn đề các bạn có thể gặp phải. 
+- Cập nhật thông tin, chia sẻ những góc nhìn rộng mở đến từ các thành viên đã được trải nghiệm ở môi trường mới.
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
 - ⚗️🍨 Vanilla Jekyll starter kit  
   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
@@ -57,7 +50,10 @@ To give you a running start I've put together some starter kits that you can dow
 - ⚗️🚀 Stackbit starter kit  
   [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
 
-### As a Jekyll theme
+### Offline
+
+- Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
+- _(#Trao đổi sách, tài liệu.)_
 
 1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
 2. Run the command `bundle install` in the root of project to install the theme and its dependancies
@@ -65,30 +61,13 @@ To give you a running start I've put together some starter kits that you can dow
 4. Run `bundle exec jekyll serve` to build and serve your site
 5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-### As a GitHub Pages remote theme
+### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-### As a Boilerplate / Fork
+## Tầm nhìn
 
-_(deprecated, not recommended)_
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+- Cộng đồng bạn trẻ ham học hỏi, có trách nhiệm với bản thân và cộng đồng.
+- Trở thành Tổ chức Phi lợi nhuận về Giáo dục, giúp đỡ các dự án trong khu vực.
 
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+(https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
