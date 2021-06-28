@@ -176,5 +176,5 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - **Email** binhminhknowledge@gmail.com
 - **Zalo/Phone/Message** 0363127902
 
-### Hỗ trợ bởi **[GitHub Pages](https://www.pages.github.io/)**
+### Hỗ trợ bởi **[GitHub Pages](https://www.pages.github.com/)**
 
