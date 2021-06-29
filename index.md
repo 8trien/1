@@ -5,10 +5,10 @@ feature_text:
 ## WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
-excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng."
+excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ, giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng."
 ---
 
-Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng.
+Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ, giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng.
 
 {% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Give us a book 📖" link="https://www.nhanam.com.vn" color="#f68140" %}
 
@@ -147,5 +147,5 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - **Thông qua Fanpage**
 ## Mọi thông tin trên trang có thể được cập nhật.
 
-###### Với sự hỗ trợ của **[GitHub Pages](https://www.pages.github.com/)**
+###### Với sự hỗ trợ của **[GitHub Pages]**
 
