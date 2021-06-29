@@ -13,51 +13,42 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 {% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Give us a book 📖" link="https://www.nhanam.com.vn" color="#f68140" %}
 
 ## Mục đích thành lập
-
 - Hướng đến cung cấp thêm các thông tin, định hướng, kiến thức khoa học bổ ích khi còn ngồi trên ghế nhà trường để chuẩn bị cho giai đoạn tiếp theo.
 - Chia sẻ kinh nghiệm, thảo luận và đưa ra những giải pháp cho các vấn đề mà các thành viên thường gặp phải.
 - Tạo mạng lưới mối quan hệ, giúp các đối tượng tham dự có thể cùng nhau chia sẻ kinh nghiệm, học hỏi lẫn nhau, từ đó, giúp các bạn có thêm những góc nhìn mới.
 
 
-
 ## Đối tượng hướng đến
-
 - Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
 - Các cá nhân cùng chung lý tưởng.
 
 
 ## Hình thức hoạt động
-### Online
 
+### Online
 - Các bài viết chia sẻ kinh nghiệm, giải pháp về những vấn đề các bạn có thể gặp phải. 
 - Cập nhật thông tin, chia sẻ những góc nhìn rộng mở đến từ các thành viên đã được trải nghiệm ở môi trường mới.
-
-
-
   
 ### Offline
-
 - Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
 - _Trao đổi sách, tài liệu._
-
 
 ### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
 
 
-
 ## Tầm nhìn
-
-
 - Cộng đồng bạn trẻ ham học hỏi, có trách nhiệm với bản thân và cộng đồng.
 - Trở thành Tổ chức Phi lợi nhuận về Giáo dục, giúp đỡ các dự án trong khu vực.
 
 
-## Thông tin về tuyển thành viên
-### Quyền lợi khi trở thành thành viên
 
+## Thông tin về tuyển thành viên
+
+### Quyền lợi khi trở thành thành viên
 - Mở rộng mạng lưới mối quan hệ đến các thành viên có cùng chí hướng và các anh chị đã có kinh nghiệm trong hoạt động xã hội.
 - Được lắng nghe những kinh nghiệm về hoạt động xã hội cũng như học đại học từ các thành viên Ban Tổ Chức.
 - Có được thêm các kỹ năng cần thiết cho việc học tập sinh sống sau này.
+
 ### Yêu cầu chung cho ứng viên
 
 - Có sự quan tâm và tìm hiểu về Nhóm
@@ -70,8 +61,8 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Các cá nhân quan tâm đến giáo dục (ưu tiên đến từ Ninh Bình).
 
 # Miêu tả công việc
-## Mảng Online (Đăng bài trên Group + Page Facebook)
 
+## Mảng Online (Đăng bài trên Group + Page Facebook)
 
 ### Writer
 
@@ -105,21 +96,16 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 ## Buổi gặp mặt
 
-
-
 ### Mô tả công việc:
 - Lên kế hoạch cho các buổi bonding kết nối các thành viên.
 - Giữ cho các thành viên trong nhóm luôn thân thiện, hòa đồng với nhau.
 - Giám sát và ghi nhận tiến độ làm việc của các ban.
 - Nhắc nhở, đốc thúc mọi người hoàn thành công việc đúng thời hạn đã giao.
 
-
-
 ### Mong muốn:
 - Có khả năng giao tiếp tốt với mọi người xung quanh.
 - Biết lắng nghe và thấu hiểu.
 - Cẩn thận, chu đáo, trách nhiệm và có trí nhớ tốt (để còn nhắc deadline mọi người).
-
 
 
 ## Hoạt động cộng đồng
@@ -130,14 +116,13 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Ghi nhận các trường hợp vắng mặt, bonding, sự kiện,...
 - Liên hệ với bên Đoàn thanh niên/Tổ chức ở địa phương.
 
-
 ### Mong muốn:
 - Có khả năng giao tiếp tốt với mọi người xung quanh.
 - Biết lắng nghe và thấu hiểu.
 - Cẩn thận, chu đáo, trách nhiệm và có trí nhớ tốt (để còn nhắc deadline mọi người).
-- Chung giữa hai mảng
 
 
+# Chung giữa hai mảng
 
 ## Hậu cần
 
@@ -151,7 +136,6 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có khả năng tính toán và sắp xếp tốt.
 - Có khả năng ứng biến tốt trước những tình huống bất ngờ.
 - Có khả năng quản lý thời gian tốt để xây dựng timeline chi tiết và chạy chương trình.
-
 
 
 ## Truyền thông
@@ -170,11 +154,11 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có khả năng lên ý tưởng, sáng tạo trong các bài viết có tính chuyên môn cao.
 
 
-# Hope you have a shining day. Thank you.
+## Hope you have a shining today and tomorrow.
 
 ### Thông tin liên lạc
 - **Email** binhminhknowledge@gmail.com
 - **Thông qua Fanpage**
 
-### Hỗ trợ bởi **[GitHub Pages](https://www.pages.github.com/)**
+##### Hỗ trợ bởi **[GitHub Pages](https://www.pages.github.com/)**
 
