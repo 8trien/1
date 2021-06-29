@@ -90,6 +90,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 ### Tuyển thành viên Ban Tổ chức.
 ###### Yêu cầu: Thanh niên trong độ tuổi 16-22.
 
+
 #### Nhóm Nội dung
 ##### Công việc:
 - Tự sáng tạo chủ đề cho bài viết cho bản thân.
@@ -124,6 +125,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 #### Nhóm Cộng tác viên 
 ###### Kết hợp giữa Nhóm Nội dung và Nhóm Tổ chức.
+
 ##### Mô tả công việc:
 - Giải đáp thắc mắc và tương tác với người dùng về Nhóm (online lẫn offline).
 - Thiết kế ảnh đi kèm với các bài viết của Nhóm Nội dung và Nhóm Tổ chức.
