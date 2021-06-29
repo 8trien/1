@@ -55,9 +55,11 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Được hỗ trợ dụng cụ, tư liệu trong hoạt động thực hành, hoạt động ngoại khóa.
 
 ### Tuyển Mentee
+###### Hầu hết đến từ trường THPT Bình Minh, Ninh Bình.
+
 #### Đối tượng
-- Những bạn học sinh sinh viên (hầu hết đến từ Trường THPT Bình Minh, Ninh Bình).
-- Những bạn ở lớp thường được gọi là “giáo sư”.
+- Học sinh cấp 3 (ưu tiên lớp 11).
+- Sinh viên năm nhất, năm hai.
 
 #### Hoạt động
 - Trao đổi sách, tài liệu trong những buổi gặp mặt offline.
@@ -72,6 +74,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Học được môn tiếng Anh.
 - Thích đọc sách, giúp đỡ mọi người.
 - Lợi thế: Có thói quen/sở thích quan sát, suy nghĩ về thế giới.
+- Lợi thế: Ở lớp thường được gọi là “giáo sư”.
 
 ### Tuyển Mentor/Advisor
 #### Mô tả công việc
