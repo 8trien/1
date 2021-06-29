@@ -12,7 +12,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 {% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Give us a book 📖" link="https://www.nhanam.com.vn" color="#f68140" %}
 
-## Giới thiệu Nhóm
+## Thông tin chung
 #### Mục đích thành lập
 - Hướng đến cung cấp thêm các thông tin, định hướng, kiến thức khoa học bổ ích khi còn ngồi trên ghế nhà trường để chuẩn bị cho giai đoạn tiếp theo.
 - Chia sẻ kinh nghiệm, thảo luận và đưa ra những giải pháp cho các vấn đề mà các thành viên thường gặp phải.
@@ -31,6 +31,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
 
 ##### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
+
 
 
 #### Tầm nhìn
