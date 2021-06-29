@@ -105,7 +105,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có khả năng kiêm thêm một hoặc hai vai trò còn lại là một lợi thế.
  
 
-#### Nhóm Tổ chức.
+#### Nhóm Tổ chức
 ##### Mô tả công việc:
 - Tổ chức các buổi gặp mặt và hoạt động cộng đồng.
 - Lên kế hoạch cho các buổi bonding kết nối các thành viên.
