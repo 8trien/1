@@ -10,7 +10,7 @@ excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbett
 
 Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ, giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng.
 
-{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Give us a book 📖" link="https://www.nhanam.com.vn" color="#f68140" %}
+{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Quality Education 🌐" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
 
 ## Thông tin chung
 #### Mục đích thành lập
