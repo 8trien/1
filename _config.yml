@@ -44,10 +44,11 @@ author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: David Darnes # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://sdgs.un.org/goals/goal1
+  - https://sdgs.un.org/goals/goal4
+  -  https://facebook.com/bmbetter
+  - https://sdgs.un.org/goals/goal3
+  - https://sdgs.un.org/goals/goal8
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -135,11 +136,11 @@ navigation_footer:
   url: https://facebook.com/bmbetter
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/
-  Instagram: https://www.ingstagram.com
+  Twitter: https://sdgs.un.org/goals/goal1
+  Instagram: https://sdgs.un.org/goals/goal4
   Facebook: https://facebook.com/bmbetter
-  link: veffa.org
-  RSS: /feed.xml
+  link: https://sdgs.un.org/goals/goal3
+  RSS: https://sdgs.un.org/goals/goal8
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
