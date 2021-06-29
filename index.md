@@ -13,30 +13,32 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 {% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Quality Education 🌐" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
 
 ## Thông tin chung
-#### Mục đích thành lập
-- Hướng đến cung cấp thêm các thông tin, định hướng, kiến thức khoa học bổ ích khi còn ngồi trên ghế nhà trường để chuẩn bị cho giai đoạn tiếp theo.
-- Chia sẻ kinh nghiệm, thảo luận và đưa ra những giải pháp cho các vấn đề mà các thành viên thường gặp phải.
-- Tạo mạng lưới mối quan hệ, giúp các đối tượng tham dự có thể cùng nhau chia sẻ kinh nghiệm, học hỏi lẫn nhau, từ đó, giúp các bạn có thêm những góc nhìn mới.
-
+#### Mục đích và ý nghĩa
+- Xây dựng một không gian học tập có hệ thống và phương pháp, giúp việc học được hiệu quả, hiểu hơn về bài học.
+- Tạo điều kiện tham gia các hoạt động trải nghiệm thực tế, xây dựng các mối quan hệ, góp phần định hướng phát triển cá nhân.
+- Cung cấp thông tin, kiến thức khoa học, từ đó ý thức được trách nhiệm của bản thân và xây dựng một lối sống để đạt được hình tượng theo đuổi.
 #### Đối tượng hướng đến
 - Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
 - Các cá nhân cùng chung lý tưởng.
 
 #### Hình thức hoạt động
 ##### Online
-- Các bài viết chia sẻ kinh nghiệm, giải pháp về những vấn đề các bạn có thể gặp phải. 
-- Cập nhật thông tin, chia sẻ những góc nhìn rộng mở đến từ các thành viên đã được trải nghiệm ở môi trường mới.
+- Các bài viết chia sẻ kinh nghiệm, kiến thức đa dạng, chất lượng và thiết thực.
+- Cùng bàn luận, trao đổi và đưa ra giải pháp về những vấn đề thành viên đang gặp phải (đây có thể coi là hoạt động tư vấn, định hướng nghề nghiệp).
+- Giao lưu, chia sẻ những góc nhìn rộng mở đến từ các thành viên đã được trải nghiệm ở môi trường mới.
+- Cùng khuyến khích nhau tập thể dục, rèn luyện sức khỏe.
   
 ##### Offline
 - Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
+- Các công việc hoạt động ngoại khóa.
 
-##### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
+##### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện
 
 
 
 #### Tầm nhìn
-- Cộng đồng bạn trẻ ham học hỏi, có trách nhiệm với bản thân và cộng đồng.
-- Trở thành Tổ chức Phi lợi nhuận về Giáo dục, giúp đỡ các dự án trong khu vực.
+- Cộng đồng bạn trẻ có kiến thức, kỹ năng và sức khỏe tốt, sống có trách nhiệm với bản thân, gia đình và xã hội.
+- Trở thành Tổ chức Phi lợi nhuận về Giáo dục, giúp đỡ các dự án phát triển xã hội tại địa phương.
 
 ## Thông tin về tuyển thành viên
 
@@ -78,14 +80,12 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 ### Tuyển Mentor/Advisor
 #### Mô tả công việc
-- Chia sẻ kiến thức, kinh nghiệm (qua hình thức viết hoặc các buổi gặp mặt).
 - Hỗ trợ giúp đỡ Nhóm trong quá trình hoạt động.
 
 #### Yêu cầu
-- Thanh niên.
-- Quan tâm đến phát triển xã hội nói chung và giáo dục nói riêng.
-- Mong muốn giúp đỡ các bạn trẻ trong việc phát triển kỹ năng hiểu biết.
-- Có tinh thần tình nguyện.
+- Là thanh niên.
+- Có tinh thần khát khao cống hiến cho cộng đồng nói chung và giáo dục nói riêng.
+- Mong muốn giúp đỡ các bạn trẻ trong việc phát triển những kỹ năng và hiểu biết.
 
 ### Tuyển thành viên Ban Tổ chức.
 ###### Yêu cầu: Thanh niên trong độ tuổi 16-22.
@@ -94,7 +94,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 #### Nhóm Nội dung
 ##### Công việc:
 - Tự sáng tạo chủ đề cho bài viết cho bản thân.
-- Tìm kiếm nguồn thông tin đáng tin cậy về mảng Khoa học, Giáo dục.
+- Tìm kiếm nguồn thông tin tin cậy về mảng Khoa học, Giáo dục,...
 - Nghiên cứu, tổng hợp thông tin, phối hợp với Cộng tác viên và viết bài.
 
 ##### Mong muốn:
@@ -140,12 +140,15 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có niềm yêu thích với mảng Khoa học và thực sự mong muốn chia sẻ kiến thức cho mọi người.
 
 
-## Cảm ơn các bạn đã quan tâm. Hope you have a shining today and tomorrow.
+## Xin nhận hỗ trợ
+- Kiến thức được chia sẻ trong nhóm đa dạng, cả khoa học tự nhiên, khoa học xã hội và nhân văn.
+- Nhóm có hoạt động liên quan đến sách, cụ thể là trao đổi sách hàng tháng, đặt mục tiêu mỗi tháng đọc 500 trang.
+##### Vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, nhóm sẽ phát triển thuận lợi và sâu sắc hơn.
 
-### Thông tin liên lạc
+#### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Thông qua Fanpage**
-## Mọi thông tin trên trang có thể được cập nhật.
+- **Thông qua fanpage Binhminh Knowledge**
+- **Có thể gặp mặt trao đổi trực tiếp**
 
-###### Với sự hỗ trợ của **[GitHub Pages]**
-
+##### Mọi thông tin trên trang có thể được cập nhật.
+# Cảm ơn tất cả.
