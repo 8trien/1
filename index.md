@@ -65,7 +65,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Cá nhân quan tâm sẽ trả lời bộ câu hỏi khi đã chủ động liên lạc.
 
 ### Tuyển Mentee
-- ###### Hầu hết đến từ trường THPT Bình Minh, Ninh Bình.
+- Hầu hết đến từ trường THPT Bình Minh, Ninh Bình.
 - Chỉ tham gia khi chắc chắn đồng hành với nhóm lâu dài (tối thiểu 6 tháng).
 
 #### Đối tượng
