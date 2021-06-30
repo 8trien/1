@@ -30,11 +30,12 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Cùng khuyến khích nhau tập thể dục, rèn luyện sức khỏe.
   
 ##### Offline
-- Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
+- Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
 - Các công việc hoạt động ngoại khóa.
 
 ##### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
-
+- Coffee House.
+- Ứng dụng Zoom.
 
 
 #### Tầm nhìn
@@ -64,7 +65,8 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Cá nhân quan tâm sẽ trả lời bộ câu hỏi khi đã chủ động liên lạc.
 
 ### Tuyển Mentee
-###### Hầu hết đến từ trường THPT Bình Minh, Ninh Bình.
+- ###### Hầu hết đến từ trường THPT Bình Minh, Ninh Bình.
+- Chỉ tham gia khi chắc chắn đồng hành với nhóm lâu dài (tối thiểu 6 tháng).
 
 #### Đối tượng
 - Học sinh cấp 3 (ưu tiên lớp 11).
@@ -135,9 +137,9 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có khả năng quản lý thời gian tốt để xây dựng timeline chi tiết và chạy chương trình.
 
 #### Nhóm Cộng tác viên 
-###### Kết hợp giữa Nhóm Nội dung và Nhóm Tổ chức.
-
+ 
 ##### Mô tả công việc:
+- Hỗ trợ Nhóm Nội dung và Nhóm Tổ chức.
 - Giải đáp thắc mắc và tương tác với người dùng về Nhóm (online lẫn offline).
 - Thiết kế ảnh đi kèm với các bài viết của Nhóm Nội dung và Nhóm Tổ chức.
 - Biên tập các bài viết từ writer để đăng lên fanpage (sửa các lỗi chính tả, câu cú, phong cách diễn đạt và hình thức bài viết).
@@ -150,8 +152,9 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có hiểu biết tốt về ngôn ngữ (đặc biệt là cần chịu khó nghiên cứu các thuật ngữ về Khoa học) và có khả năng diễn đạt thu hút người đọc.
 - Có niềm yêu thích với mảng Khoa học và thực sự mong muốn chia sẻ kiến thức cho mọi người.
 
-### Lịch trình hoạt động
-- 
+### Lộ trình hoạt động
+- Bắt đầu từ hè năm 2021 đến chưa rõ.
+
 ## Xin nhận hỗ trợ
 - Kiến thức được chia sẻ trong nhóm đa dạng, cả khoa học tự nhiên, khoa học xã hội và nhân văn.
 - Nhóm có hoạt động liên quan đến sách, cụ thể là trao đổi sách hàng tháng, đặt mục tiêu mỗi tháng đọc 500 trang.
