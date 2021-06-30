@@ -56,6 +56,12 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có được thêm các kỹ năng cần thiết cho việc học tập sinh sống sau này.
 - Được hỗ trợ dụng cụ, tư liệu trong hoạt động thực hành, hoạt động ngoại khóa.
 
+### Thời gian và hình thức tuyển
+- Nhóm luôn tuyển ở tất cả các vị trí.
+- Nhóm thông báo tuyển qua chuyền tay, bài đăng facebook.
+- Mentee có thể trả lời các câu hỏi ở group facebook của Nhóm.
+- Cá nhân quan tâm sẽ trả lời bộ câu hỏi khi đã chủ động liên lạc.
+
 ### Tuyển Mentee
 ###### Hầu hết đến từ trường THPT Bình Minh, Ninh Bình.
 
@@ -80,12 +86,15 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 ### Tuyển Mentor/Advisor
 #### Mô tả công việc
-- Hỗ trợ giúp đỡ Nhóm trong quá trình hoạt động.
-
+- Tham gia một hoặc nhiều buổi gặp mặt.
 #### Yêu cầu
 - Là thanh niên.
+- Có khả năng truyền tải kiến thức dễ hiểu.
 - Có tinh thần khát khao cống hiến cho cộng đồng nói chung và giáo dục nói riêng.
 - Mong muốn giúp đỡ các bạn trẻ trong việc phát triển những kỹ năng và hiểu biết.
+
+### Tuyển Mentor/Adviser
+- Đây là vị trí có yêu cầu cao, cá nhân quan tâm xin hãy liên lạc để được gửi bản mô tả chi tiết.
 
 ### Tuyển thành viên Ban Tổ chức.
 ###### Yêu cầu: Thanh niên trong độ tuổi 16-22.
@@ -139,7 +148,8 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Có hiểu biết tốt về ngôn ngữ (đặc biệt là cần chịu khó nghiên cứu các thuật ngữ về Khoa học) và có khả năng diễn đạt thu hút người đọc.
 - Có niềm yêu thích với mảng Khoa học và thực sự mong muốn chia sẻ kiến thức cho mọi người.
 
-
+### Lịch trình hoạt động
+- 
 ## Xin nhận hỗ trợ
 - Kiến thức được chia sẻ trong nhóm đa dạng, cả khoa học tự nhiên, khoa học xã hội và nhân văn.
 - Nhóm có hoạt động liên quan đến sách, cụ thể là trao đổi sách hàng tháng, đặt mục tiêu mỗi tháng đọc 500 trang.
@@ -147,7 +157,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 
 #### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Thông qua fanpage Binhminh Knowledge**
+- **Thông qua fanpage [Binhminh Knowledge](https://www.facebook.com/bmbetter)**
 - **Có thể gặp mặt trao đổi trực tiếp**
 
 ##### Mọi thông tin trên trang có thể được cập nhật.
