@@ -5,11 +5,10 @@ feature_text:
 ## WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
-excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ, giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng."
+excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter)là một nhóm các bạn trẻ ham học hỏi, khám phá điều mới, mong muốn được mở rộng góc nhìn, phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng."
 ---
 
-Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ hiếu học mong muốn phát triển những kỹ năng của bản thân, chủ động mở rộng quan hệ, giao lưu chia sẻ kiến thức, có ý thức trách nhiệm với gia đình và cộng đồng.
-
+Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ ham học hỏi, khám phá điều mới, mong muốn được mở rộng góc nhìn, phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng.
 {% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Quality Education 🌐" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
 
 ## Thông tin chung
@@ -63,12 +62,12 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Học sinh cấp 3 (ưu tiên lớp 11).
 - Sinh viên năm nhất, năm hai.
 
-#### Hoạt động
+#### Nội dung hoạt động
 - Trao đổi sách, tài liệu trong những buổi gặp mặt offline.
 - Tham gia vào group facebook cùng các bạn/anh chị/cố vấn.
 - Chia sẻ các câu chuyện, suy nghĩ, thắc mắc để mọi người cùng giải đáp.
 - Hiểu biết hơn về bản thân, hiện thực cuộc sống thông qua các bài viết ở nhiều chủ đề.
-- Tham gia các cuộc thi (Thi tiếng Anh, Đại sứ Văn hóa đọc, Sáng tạo KHKT,...).
+- Tham gia các cuộc thi (Thi tiếng Anh, Đại sứ Văn hóa đọc, Sáng tạo KHKT,...), hoạt động ngoại khóa.
 - Tư vấn hướng nghiệp qua bài viết, gặp mặt online và offline.
 
 #### Yêu cầu
