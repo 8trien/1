@@ -17,6 +17,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Xây dựng một không gian học tập có hệ thống và phương pháp, giúp việc học được hiệu quả, hiểu hơn về bài học.
 - Tạo điều kiện tham gia các hoạt động trải nghiệm thực tế, xây dựng các mối quan hệ, góp phần định hướng phát triển cá nhân.
 - Cung cấp thông tin, kiến thức khoa học, từ đó ý thức được trách nhiệm của bản thân và xây dựng một lối sống để đạt được hình tượng theo đuổi.
+
 #### Đối tượng hướng đến
 - Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
 - Các cá nhân cùng chung lý tưởng.
@@ -32,7 +33,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Tại địa phương: Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
 - Các công việc hoạt động ngoại khóa.
 
-##### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện
+##### Tại địa phương và trên không gian mạng: Các buổi meeting trò chuyện.
 
 
 
@@ -87,6 +88,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 ### Tuyển Khách mời
 #### Mô tả công việc
 - Tham gia một hoặc nhiều buổi gặp mặt.
+
 #### Yêu cầu
 - Là thanh niên.
 - Có khả năng truyền tải kiến thức dễ hiểu.
