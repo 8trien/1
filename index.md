@@ -155,14 +155,15 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 ### Lộ trình hoạt động
 - Bắt đầu từ hè năm 2021 đến chưa rõ.
 
-## Xin nhận hỗ trợ
+### Xin nhận hỗ trợ
 - Kiến thức được chia sẻ trong nhóm đa dạng, cả khoa học tự nhiên, khoa học xã hội và nhân văn.
 - Nhóm có hoạt động liên quan đến sách, cụ thể là trao đổi sách hàng tháng, đặt mục tiêu mỗi tháng đọc 500 trang.
-##### Vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, nhóm sẽ phát triển thuận lợi và sâu sắc hơn.
 
-#### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
+_Vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, nhóm sẽ phát triển thuận lợi và sâu sắc hơn.)_
+
+##### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Thông qua fanpage [Binhminh Knowledge](https://www.facebook.com/bmbetter)**
+- **Fanpage [Binhminh Knowledge](https://www.facebook.com/bmbetter)**
 - **Có thể gặp mặt trao đổi trực tiếp**
 
 ##### Mọi thông tin trên trang có thể được cập nhật.
