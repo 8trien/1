@@ -65,12 +65,12 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Cá nhân quan tâm sẽ trả lời bộ câu hỏi khi đã chủ động liên lạc.
 
 ### Tuyển Mentee
-- Hầu hết đến từ trường THPT Bình Minh, Ninh Bình.
-- Chỉ tham gia khi chắc chắn đồng hành với nhóm lâu dài (tối thiểu 6 tháng).
 
 #### Đối tượng
 - Học sinh cấp 3 (ưu tiên lớp 11).
 - Sinh viên năm nhất, năm hai.
+
+_Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 
 #### Nội dung hoạt động
 - Trao đổi sách, tài liệu trong những buổi gặp mặt offline.
@@ -86,6 +86,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Thích đọc sách, giúp đỡ mọi người.
 - Lợi thế: Có thói quen/sở thích quan sát, suy nghĩ về thế giới.
 - Lợi thế: Ở lớp thường được gọi là “giáo sư”.
+- _Chỉ tham gia khi chắc chắn đồng hành với nhóm lâu dài (tối thiểu 6 tháng)._
 
 ### Tuyển Khách mời
 #### Mô tả công việc
@@ -159,7 +160,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Kiến thức được chia sẻ trong nhóm đa dạng, cả khoa học tự nhiên, khoa học xã hội và nhân văn.
 - Nhóm có hoạt động liên quan đến sách, cụ thể là trao đổi sách hàng tháng, đặt mục tiêu mỗi tháng đọc 500 trang.
 
-_Vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, nhóm sẽ phát triển thuận lợi và sâu sắc hơn.)_
+_Vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, nhóm sẽ phát triển thuận lợi và sâu sắc hơn._
 
 ##### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
