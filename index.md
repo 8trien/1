@@ -84,7 +84,7 @@ Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là m�
 - Lợi thế: Có thói quen/sở thích quan sát, suy nghĩ về thế giới.
 - Lợi thế: Ở lớp thường được gọi là “giáo sư”.
 
-### Tuyển Mentor/Advisor
+### Tuyển Khách mời
 #### Mô tả công việc
 - Tham gia một hoặc nhiều buổi gặp mặt.
 #### Yêu cầu
