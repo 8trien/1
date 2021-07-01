@@ -1,5 +1,5 @@
 ---
-title: Nhóm Học tập Binhminh Knowledge
+title: Nhóm Học tập
 
 feature_text:
 ## WELCOME TO OUR PROJECT
@@ -8,9 +8,9 @@ feature_image: "https://picsum.photos/id/434/4928?image=3264"
 excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter)là một nhóm các bạn trẻ ham học hỏi, khám phá điều mới, mong muốn được mở rộng góc nhìn, phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng."
 ---
 
-Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một nhóm các bạn trẻ ham học hỏi, khám phá điều mới, mong muốn được mở rộng góc nhìn, phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng.
+Nhóm Học tập là một nhóm các bạn trẻ ham học hỏi, khám phá điều mới, mong muốn được mở rộng góc nhìn, phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng.
 
-{% include button.html text="Fanpage" icon="facebook" link="https://www.facebook.com/bmbetter" color="#0366d6" %} {% include button.html text="Quality Education 🌐" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
+{% include button.html text="Quality Education 🌐" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
 
 ## Thông tin chung
 #### Mục đích và ý nghĩa
@@ -164,7 +164,6 @@ _Vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ c
 
 ##### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Fanpage [Binhminh Knowledge](https://www.facebook.com/bmbetter)**
 - **Có thể gặp mặt trao đổi trực tiếp**
 
 ##### Mọi thông tin trên trang có thể được cập nhật.
