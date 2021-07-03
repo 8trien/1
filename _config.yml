@@ -128,7 +128,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Nhóm học tập.
+- title: Cho một sự thay đổi.
   url: https://sdgs.un.org/goals/goal4
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
