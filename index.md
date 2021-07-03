@@ -15,8 +15,8 @@ Nhóm Học tập là một nhóm các bạn trẻ ham học hỏi, khám phá �
 ## Thông tin chung
 #### Mục đích và ý nghĩa
 - Xây dựng một không gian học tập có hệ thống và phương pháp, giúp việc học được hiệu quả, hiểu hơn về bài học.
-- Tạo điều kiện tham gia các hoạt động trải nghiệm thực tế, xây dựng các mối quan hệ, góp phần định hướng phát triển cá nhân.
-- Cung cấp thông tin, kiến thức khoa học, từ đó ý thức được trách nhiệm của bản thân và xây dựng một lối sống để đạt được hình tượng theo đuổi.
+- Tạo điều kiện tham gia các hoạt động trải nghiệm thực tế, có thêm các mối quan hệ, sự hiểu biết về cuộc sống. 
+- Cung cấp thông tin, kiến thức khoa học, góp phần định hướng phát triển cá nhân.
 
 #### Đối tượng hướng đến
 - Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
