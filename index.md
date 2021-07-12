@@ -5,10 +5,10 @@ feature_text:
 ## WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/id/434/4928?image=3264"
-excerpt: "Nhóm Học tập [Binhminh Knowledge](https://www.facebook.com/bmbetter)là một nhóm các bạn trẻ ham học hỏi, khám phá điều mới, mong muốn được mở rộng góc nhìn, phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng."
+excerpt: "Nhóm Học tập là một nhóm các bạn trẻ ham học hỏi, khám phá tri thức, mong muốn được phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng."
 ---
 
-Nhóm Học tập là một nhóm các bạn trẻ ham học hỏi, khám phá điều mới, mong muốn được mở rộng góc nhìn, phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng.
+Nhóm Học tập là một nhóm các bạn trẻ ham học hỏi, khám phá tri thức, mong muốn được phát triển bản thân và tạo sự thay đổi tích cực cho cộng đồng.
 
 {% include button.html text="Quality Education 🌐" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
 
