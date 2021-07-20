@@ -4,7 +4,7 @@ title: Binhminh Knowledge
 feature_text:
 ## WELCOME TO OUR PROJECT
 
-feature_image: "https://picsum.photos/1073/5472?image=3648"
+feature_image: "https://picsum.photos/1920/1080?image=3648"
 excerpt: "Binhminh Knowledge là một dự án của các bạn học sinh khu vực thị trấn Bình Minh."
 ---
 [Binhminh Knowledge](https://www.facebook.com/bmbetter) là một dự án của các bạn học sinh khu vực thị trấn Bình Minh.
