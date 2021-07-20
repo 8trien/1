@@ -82,7 +82,7 @@ _Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 - Đây là vị trí có yêu cầu cao, cá nhân quan tâm xin hãy liên lạc để được gửi bản mô tả chi tiết.
 
 ##### Ban Tổ chức
-##### _Mô tả công việc:
+##### _Mô tả công việc:_
 - Tổ chức các buổi gặp mặt và hoạt động cộng đồng.
 - Lên kế hoạch cho các buổi bonding kết nối các thành viên.
 - Giữ cho các thành viên luôn thân thiện, hòa đồng với nhau.
@@ -91,7 +91,7 @@ _Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 - Liên hệ với bên Đoàn thanh niên/Tổ chức ở địa phương.
 - Trực tiếp làm việc và đón tiếp nhà tài trợ/khách mời tại các sự kiện.
 
-##### _Mong muốn:
+##### _Mong muốn:_
 - Có khả năng giao tiếp tốt với mọi người xung quanh.
 - Biết lắng nghe và thấu hiểu.
 - Có khả năng tính toán và sắp xếp tốt.
@@ -99,9 +99,9 @@ _Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 - Cẩn thận, chu đáo, trách nhiệm và có trí nhớ tốt (để còn nhắc deadline mọi người).
 - Có khả năng quản lý thời gian tốt để xây dựng timeline chi tiết và chạy chương trình.
 
-#### Ban Nội dung.
+#### Ban Nội dung
 
-##### Công việc:
+##### Mô tả công việc:
 - Tự sáng tạo chủ đề cho bài viết cho bản thân.
 - Tìm kiếm nguồn thông tin tin cậy về mảng Khoa học, Giáo dục,...
 - Nghiên cứu, tổng hợp thông tin, phối hợp với Cộng tác viên và viết bài.
@@ -110,7 +110,6 @@ _Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 - Chịu được deadline, trung thực trong công việc, có tinh thần cầu tiến và trách nhiệm.
 - Có khả năng viết lách, truyền đạt kiến thức một cách sáng tạo, hấp dẫn.
 - Có khả năng kiêm thêm một hoặc hai vai trò còn lại là một lợi thế.
- 
 
 #### Cộng tác viên 
 
