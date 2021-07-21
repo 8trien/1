@@ -106,6 +106,8 @@ _**PS: Hiện Dự án có một group facebook riêng, với hình thức tuy�
 - **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f28445" %}
 - **Có thể gặp mặt trao đổi trực tiếp**
 
+[![image](https://www.canva.com/design/DAEkttjwH1s/view)
+
 ###### Updated 21/07/2021
 
 ##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời. THANK YOU
