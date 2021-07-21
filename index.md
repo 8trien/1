@@ -2,7 +2,7 @@
 title: WELCOME TO OUR PROJECT
 
 feature_text:
-#### WELCOME TO OUR PROJECT
+##### WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/1000/180"
 excerpt: "Dự án Binhminh Knowledge của một nhóm bạn trẻ khu vực thị trấn Bình Minh."
@@ -103,9 +103,9 @@ _**PS: Hiện Dự án có một group facebook riêng, với hình thức tuy�
 
 ##### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f28123" %}
+- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f28445" %}
 - **Có thể gặp mặt trao đổi trực tiếp**
 
-###### Updated 21/07/2021
+###### [![Updated 21/07/2021]
 
-##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời. THANK FOR ALL.
+##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời. THANK YOU
