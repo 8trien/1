@@ -31,16 +31,13 @@ Tạo ra một sân chơi tập hợp những bạn trẻ ham học hỏi và mo
 - Học sinh cấp 3 (ưu tiên lớp 11).
 - Sinh viên năm nhất, năm hai.
 
-_Hầu hết đến từ thị trấn Bình Minh._
-
 ###### Yêu cầu
 - Thích học hỏi, khám phá điều mới.
 - Học được môn tiếng Anh.
 - Thích đọc sách, giúp đỡ mọi người.
-- Lợi thế: Có thói quen/sở thích quan sát, suy nghĩ về thế giới.
-- Lợi thế: Ở lớp thường được gọi là “giáo sư”.
-- _Chỉ tham gia khi chắc chắn đồng hành cùng dự án lâu dài (tối thiểu 6 tháng)._
+- Lợi thế: Có thói quen quan sát, suy nghĩ về thế giới (ở lớp thường được gọi là “giáo sư”).
 
+ _Hầu hết đến từ thị trấn Bình Minh; Chỉ tham gia khi chắc chắn đồng hành cùng dự án lâu dài (tối thiểu 6 tháng)._
 ##### Tuyển Khách mời
 ###### Mô tả công việc
 - Tham gia một hoặc nhiều buổi gặp mặt.
@@ -82,15 +79,15 @@ _Hầu hết đến từ thị trấn Bình Minh._
 - Tìm kiếm nguồn thông tin tin cậy về mảng Khoa học, Giáo dục,...
 - Nghiên cứu, tổng hợp thông tin, phối hợp với Cộng tác viên và viết bài.
 
-##### Mong muốn:
+###### Mong muốn:
 - Chịu được deadline, trung thực trong công việc, có tinh thần cầu tiến và trách nhiệm.
 - Có khả năng viết lách, truyền đạt kiến thức một cách sáng tạo, hấp dẫn.
 - Có khả năng kiêm thêm một hoặc hai vai trò còn lại là một lợi thế.
 
-#### Cộng tác viên 
+##### Cộng tác viên 
 
 ###### Mô tả công việc:
-- Giải đáp thắc mắc và tương tác với mọi người (online lẫn offline).
+- Giải đáp thắc mắc và tương tác với mọi người (online và offline).
 - Thiết kế ảnh đi kèm với các bài viết, hoạt động.
 - Biên tập các bài viết từ writer để đăng lên fanpage (sửa các lỗi chính tả, câu cú, phong cách diễn đạt và hình thức bài viết).
 
@@ -114,6 +111,6 @@ Dự án có hoạt động liên quan đến sách (tặng sách, hội sách,.
 
 PS: Dự án có một group facebook riêng, với hình thức tuyển và nội dung hoạt động khá tương tự, mọi người có thể tham gia.
 
-###### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời.
+##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời.
 `Updated 21/07/2021`
 THANK YOU.
