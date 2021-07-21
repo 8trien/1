@@ -113,7 +113,7 @@ _**PS: Hiện Dự án có một group facebook riêng, với hình thức tuy�
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEkttjwH1s&#x2F;view?embed">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEkttjwH1s&#x2F;view?utm_content=DAEkttjwH1s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Bản sao của bm</a> của Nguyên Sinh
+
 
 ###### Updated 21/07/2021
 
