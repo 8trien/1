@@ -107,14 +107,13 @@ _Hầu hết đến từ thị trấn Bình Minh._
 #### Xin nhận hỗ trợ
 Dự án có hoạt động liên quan đến sách (tặng sách, hội sách,...) _vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, dự án sẽ phát triển thuận lợi và sâu sắc hơn._
 
-_**PS: Hiện Dự án có một group facebook riêng, với hình thức tuyển và nội dung hoạt động khá tương tự, bạn có thể tham gia**_
+_PS: Hiện Dự án có một group facebook riêng, với hình thức tuyển và nội dung hoạt động khá tương tự, bạn có thể tham gia_
 
-##### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
+Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f28445" %}
+- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f45335" %}
 - **Có thể gặp mặt trao đổi trực tiếp**
 
-
-###### Updated 21/07/2021
+Updated 21/07/2021
 
 ##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời. THANK YOU
