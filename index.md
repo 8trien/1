@@ -118,13 +118,10 @@ PS: Hiện Dự án có một group facebook riêng, với hình thức tuyển 
 
 ##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời.
 <html>
-  <head>
          href="https://fonts.googleapis.com/css?family=Tangerine">
         font-family: 'Tangerine', serif;
         font-size: 48px;
-    </style>
-  </head>
   <body>
-    <div>THANK YOU!</div>
+    <div>THANK YOU</div>
   </body>
 </html>
