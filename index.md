@@ -2,64 +2,36 @@
 title: WELCOME TO OUR PROJECT
 
 feature_text:
-## WELCOME TO OUR PROJECT
+#### WELCOME TO OUR PROJECT
 
 feature_image: "https://picsum.photos/1000/180"
-excerpt: "Binhminh Knowledge là một dự án của các bạn học sinh khu vực thị trấn Bình Minh."
+excerpt: "Dự án Binhminh Knowledge của một nhóm bạn trẻ khu vực thị trấn Bình Minh."
 ---
-[Binhminh Knowledge](https://www.facebook.com/bmbetter) là một dự án của các bạn học sinh khu vực thị trấn Bình Minh.
+Dự án [Binhminh Knowledge](https://www.facebook.com/bmbetter) của một nhóm bạn trẻ khu vực thị trấn Bình Minh.
 
 {% include button.html text="Sustainable Development Goal 4" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
 
-##### Mục đích và ý nghĩa
-- Tạo một không gian học tập cho các học sinh sinh viên, giúp mọi người có cơ hội trao đổi kiến thức và tiếp cận những tri thức mới.
-
-##### Đối tượng hướng đến
-- Học sinh & Cựu học sinh Trường THPT Bình Minh, Ninh Bình.
-- Các cá nhân cùng chung lý tưởng.
+##### Sứ mệnh
+Tạo ra một sân chơi tập hợp những bạn trẻ ham học hỏi và mong muốn được chia sẻ những kiến thức của bản thân ở nhiều lĩnh vực đến với mọi người.
 
 ##### Hoạt động
-- Các bài viết chia sẻ kiến thức chất lượng và thiết thực (bài đăng fanpage).
+- Các bài viết chia sẻ kiến thức thiết thực (được đăng trên fanpage).
 - Tổ chức buổi hoạt động cộng đồng, giúp các bạn hình dung hơn về nơi mình đang sống, cũng như tạo ra một sân chơi lành mạnh giúp các bạn trẻ có cơ hội vượt ra ngoài những giới hạn của bản thân và hơn thế nữa.
 - Hỗ trợ các hoạt động ngoại khóa/cuộc thi.
 - Tư vấn hướng nghiệp (online và offline).
 
 ##### Tầm nhìn
-- Cộng đồng bạn trẻ có kiến thức, kỹ năng và sức khỏe tốt, sống có trách nhiệm với bản thân, gia đình và xã hội.
-- Trở thành Tổ chức Phi lợi nhuận về Giáo dục, giúp đỡ các dự án phát triển xã hội tại địa phương.
+- Cộng đồng bạn trẻ có kiến thức, kỹ năng và sức khỏe tốt.
+- Trở thành Tổ chức phi lợi nhuận về giáo dục, giúp đỡ các dự án phát triển xã hội tại địa phương.
 
 ### Thông tin về tuyển thành viên
-#### Yêu cầu chung cho ứng viên
-- Có sự quan tâm và tìm hiểu về Dự án.
-- Có tinh thần học hỏi từ những người xung quanh.
-- Thể hiện lòng nhiệt huyết và tinh thần trách nhiệm cao trong công việc.
-- Có kỹ năng căn bản về các công cụ làm việc của Microsoft (Docs, Excel, PowerPoint) và Google (Drive, Mail, Calendar…).
-- Quan tâm đến thay đổi xã hội, yêu thích khoa học là lợi thế.
-
-#### Quyền lợi khi trở thành thành viên
-- Mở rộng mạng lưới mối quan hệ đến các thành viên có cùng chí hướng và các anh chị đã có kinh nghiệm trên nhiều lĩnh vực.
-- Được lắng nghe những kinh nghiệm về hoạt động xã hội cũng như học đại học từ các thành viên.
-- Được hỗ trợ dụng cụ, tư liệu trong hoạt động thực hành, hoạt động ngoại khóa.
-
-#### Thời gian và hình thức tuyển
-- Luôn tuyển ở tất cả các vị trí.
-- Thông báo tuyển qua chuyền tay, bài đăng facebook.
-- Cá nhân quan tâm sẽ trả lời bộ câu hỏi khi đã chủ động liên lạc.
 
 #### Tuyển Mentee
-
 ##### Đối tượng
 - Học sinh cấp 3 (ưu tiên lớp 11).
 - Sinh viên năm nhất, năm hai.
-_Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 
-##### Nội dung hoạt động
-- Trao đổi sách, tài liệu trong những buổi gặp mặt offline.
-- Tham gia vào group facebook cùng các bạn, anh chị, cố vấn.
-- Chia sẻ các câu chuyện, suy nghĩ, thắc mắc để mọi người cùng giải đáp.
-- Hiểu biết hơn về bản thân, hiện thực cuộc sống thông qua các bài viết ở nhiều chủ đề.
-- Tham gia các cuộc thi (Thi tiếng Anh, Đại sứ Văn hóa đọc, Sáng tạo KHKT,...), hoạt động ngoại khóa.
-- Tư vấn hướng nghiệp qua bài viết, gặp mặt online và offline.
+_Hầu hết đến từ thị trấn Bình Minh._
 
 ##### Yêu cầu
 - Thích học hỏi, khám phá điều mới.
@@ -69,7 +41,7 @@ _Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 - Lợi thế: Ở lớp thường được gọi là “giáo sư”.
 - _Chỉ tham gia khi chắc chắn đồng hành cùng dự án lâu dài (tối thiểu 6 tháng)._
 
-##### Tuyển Khách mời
+#### Tuyển Khách mời
 ##### Mô tả công việc
 - Tham gia một hoặc nhiều buổi gặp mặt.
 
@@ -79,23 +51,19 @@ _Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 - Mong muốn giúp đỡ các bạn trẻ trong việc phát triển những kỹ năng và hiểu biết.
 
 ##### Tuyển Mentor/Adviser
-- Đây là vị trí có yêu cầu cao, cá nhân quan tâm xin hãy liên lạc để được gửi bản mô tả chi tiết.
+Đây là vị trí có yêu cầu cao, cá nhân quan tâm xin hãy liên lạc để được gửi bản mô tả chi tiết.
 
 ##### Ban Tổ chức
-##### _Mô tả công việc:_
+##### Mô tả công việc:
 - Tổ chức các buổi gặp mặt và hoạt động cộng đồng.
 - Lên kế hoạch cho các buổi bonding kết nối các thành viên.
 - Giữ cho các thành viên luôn thân thiện, hòa đồng với nhau.
 - Nhắc nhở, đốc thúc mọi người hoàn thành công việc đúng thời hạn đã giao.
-- Quản lý thu chi cho các hoạt động.
-- Liên hệ với bên Đoàn thanh niên/Tổ chức ở địa phương.
 - Trực tiếp làm việc và đón tiếp nhà tài trợ/khách mời tại các sự kiện.
 
-##### _Mong muốn:_
+##### Mong muốn:
 - Có khả năng giao tiếp tốt với mọi người xung quanh.
-- Biết lắng nghe và thấu hiểu.
 - Có khả năng tính toán và sắp xếp tốt.
-- Có khả năng ứng biến tốt trước những tình huống bất ngờ.
 - Cẩn thận, chu đáo, trách nhiệm và có trí nhớ tốt (để còn nhắc deadline mọi người).
 - Có khả năng quản lý thời gian tốt để xây dựng timeline chi tiết và chạy chương trình.
 
@@ -123,17 +91,21 @@ _Hầu hết đến từ trường THPT Bình Minh, Ninh Bình._
 - Có khả năng giao tiếp tốt với mọi người xung quanh.
 - Thời gian online ổn định, thường xuyên tương tác và trả lời tin nhắn.
 
-#### Lộ trình hoạt động
-- Bắt đầu từ hè năm 2021 đến chưa rõ.
+#### Thời gian và hình thức tuyển
+- Luôn tuyển ở tất cả các vị trí.
+- Thông báo tuyển qua chuyền tay, bài đăng facebook.
+- Cá nhân muốn tham gia sẽ trả lời bộ câu hỏi khi đã chủ động liên lạc.
 
 #### Xin nhận hỗ trợ
-- Dự án có hoạt động liên quan đến sách (tặng sách, hội sách,...) _vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, dự án sẽ phát triển thuận lợi và sâu sắc hơn._
+Dự án có hoạt động liên quan đến sách (tặng sách, hội sách,...) _vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, dự án sẽ phát triển thuận lợi và sâu sắc hơn._
+
+_**PS: Hiện Dự án có một group facebook riêng, với hình thức tuyển và nội dung hoạt động khá tương tự, bạn có thể tham gia**_
 
 ##### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f68799" %}
+- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f68123" %}
 - **Có thể gặp mặt trao đổi trực tiếp**
 
-##### Mọi thông tin trên trang có thể được cập nhật.
+###### Updated 21/07/2021
 
-# Cảm ơn tất cả.
+##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời. THANK FOR ALL.
