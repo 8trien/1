@@ -9,7 +9,7 @@ excerpt: "Dự án Binhminh Knowledge của một nhóm bạn trẻ khu vực th
 ---
 Dự án [Binhminh Knowledge](https://www.facebook.com/bmbetter) của một nhóm bạn trẻ khu vực thị trấn Bình Minh.
 
-{% include button.html text="Sustainable Development Goal 4" link="https://sdgs.un.org/goals/goal4" color="#f68140" %}
+{% include button.html text="Sustainable Development Goal 4" icon="world" link="https://sdgs.un.org/goals/goal4" color="#0d94e7" %}
 
 ##### Sứ mệnh
 Tạo ra một sân chơi tập hợp những bạn trẻ ham học hỏi và mong muốn được chia sẻ những kiến thức của bản thân ở nhiều lĩnh vực đến với mọi người.
