@@ -103,7 +103,7 @@ _**PS: Hiện Dự án có một group facebook riêng, với hình thức tuy�
 
 ##### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
-- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f68123" %}
+- **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f28123" %}
 - **Có thể gặp mặt trao đổi trực tiếp**
 
 ###### Updated 21/07/2021
