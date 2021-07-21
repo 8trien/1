@@ -24,16 +24,16 @@ Tạo ra một sân chơi tập hợp những bạn trẻ ham học hỏi và mo
 - Cộng đồng bạn trẻ có kiến thức, kỹ năng và sức khỏe tốt.
 - Trở thành Tổ chức phi lợi nhuận về giáo dục, giúp đỡ các dự án phát triển xã hội tại địa phương.
 
-### Thông tin về tuyển thành viên
+#### Thông tin về tuyển thành viên
 
-#### Tuyển Mentee
-##### Đối tượng
+##### Tuyển Mentee
+###### Đối tượng
 - Học sinh cấp 3 (ưu tiên lớp 11).
 - Sinh viên năm nhất, năm hai.
 
 _Hầu hết đến từ thị trấn Bình Minh._
 
-##### Yêu cầu
+###### Yêu cầu
 - Thích học hỏi, khám phá điều mới.
 - Học được môn tiếng Anh.
 - Thích đọc sách, giúp đỡ mọi người.
@@ -41,8 +41,8 @@ _Hầu hết đến từ thị trấn Bình Minh._
 - Lợi thế: Ở lớp thường được gọi là “giáo sư”.
 - _Chỉ tham gia khi chắc chắn đồng hành cùng dự án lâu dài (tối thiểu 6 tháng)._
 
-#### Tuyển Khách mời
-##### Mô tả công việc
+##### Tuyển Khách mời
+###### Mô tả công việc
 - Tham gia một hoặc nhiều buổi gặp mặt.
 
 ###### Yêu cầu
@@ -54,14 +54,14 @@ _Hầu hết đến từ thị trấn Bình Minh._
 Đây là vị trí có yêu cầu cao, cá nhân quan tâm xin hãy liên lạc để được gửi bản mô tả chi tiết.
 
 ##### Ban Tổ chức
-##### Mô tả công việc:
+###### Mô tả công việc:
 - Tổ chức các buổi gặp mặt và hoạt động cộng đồng.
 - Lên kế hoạch cho các buổi bonding kết nối các thành viên.
 - Giữ cho các thành viên luôn thân thiện, hòa đồng với nhau.
 - Nhắc nhở, đốc thúc mọi người hoàn thành công việc đúng thời hạn đã giao.
 - Trực tiếp làm việc và đón tiếp nhà tài trợ/khách mời tại các sự kiện.
 
-##### Mong muốn:
+###### Mong muốn:
 - Có khả năng giao tiếp tốt với mọi người xung quanh.
 - Có khả năng tính toán và sắp xếp tốt.
 - Cẩn thận, chu đáo, trách nhiệm và có trí nhớ tốt (để còn nhắc deadline mọi người).
@@ -75,9 +75,9 @@ _Hầu hết đến từ thị trấn Bình Minh._
   </iframe>
 </div>
 
-#### Ban Nội dung
+##### Ban Nội dung
 
-##### Mô tả công việc:
+###### Mô tả công việc:
 - Tự sáng tạo chủ đề cho bài viết cho bản thân.
 - Tìm kiếm nguồn thông tin tin cậy về mảng Khoa học, Giáo dục,...
 - Nghiên cứu, tổng hợp thông tin, phối hợp với Cộng tác viên và viết bài.
@@ -89,31 +89,46 @@ _Hầu hết đến từ thị trấn Bình Minh._
 
 #### Cộng tác viên 
 
-##### Mô tả công việc:
+###### Mô tả công việc:
 - Giải đáp thắc mắc và tương tác với mọi người (online lẫn offline).
 - Thiết kế ảnh đi kèm với các bài viết, hoạt động.
 - Biên tập các bài viết từ writer để đăng lên fanpage (sửa các lỗi chính tả, câu cú, phong cách diễn đạt và hình thức bài viết).
 
-##### Mong muốn:
+###### Mong muốn:
 - Truyền đạt ý tưởng tốt.
 - Có khả năng giao tiếp tốt với mọi người xung quanh.
 - Thời gian online ổn định, thường xuyên tương tác và trả lời tin nhắn.
 
-#### Thời gian và hình thức tuyển
+##### Thời gian và hình thức tuyển
 - Luôn tuyển ở tất cả các vị trí.
 - Thông báo tuyển qua chuyền tay, bài đăng facebook.
 - Cá nhân muốn tham gia sẽ trả lời bộ câu hỏi khi đã chủ động liên lạc.
 
-#### Xin nhận hỗ trợ
+##### Xin nhận hỗ trợ
 Dự án có hoạt động liên quan đến sách (tặng sách, hội sách,...) _vì thế rất mong nhận được sự hỗ trợ, giúp đỡ đến từ các cá nhân quan tâm, dự án sẽ phát triển thuận lợi và sâu sắc hơn._
 
-- _PS: Hiện Dự án có một group facebook riêng, với hình thức tuyển và nội dung hoạt động khá tương tự, bạn có thể tham gia_
+PS: Hiện Dự án có một group facebook riêng, với hình thức tuyển và nội dung hoạt động khá tương tự, bạn có thể tham gia
 
-- Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
+###### Cá nhân/Thầy cô/Phụ huynh quan tâm và muốn biết thêm thông tin, xin hãy liên hệ:
 - **Email** binhminhknowledge@gmail.com
 - **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f45335" %}
 - **Có thể gặp mặt trao đổi trực tiếp**
 
 - Updated 21/07/2021
 
-##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời. THANK YOU
+##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời.
+<html>
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+    <style>
+      body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>THANK YOU!</div>
+  </body>
+</html>
