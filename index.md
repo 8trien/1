@@ -67,6 +67,14 @@ _Hầu hết đến từ thị trấn Bình Minh._
 - Cẩn thận, chu đáo, trách nhiệm và có trí nhớ tốt (để còn nhắc deadline mọi người).
 - Có khả năng quản lý thời gian tốt để xây dựng timeline chi tiết và chạy chương trình.
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEkttjwH1s&#x2F;view?embed">
+  </iframe>
+</div>
+
 #### Ban Nội dung
 
 ##### Mô tả công việc:
@@ -105,14 +113,6 @@ _**PS: Hiện Dự án có một group facebook riêng, với hình thức tuy�
 - **Email** binhminhknowledge@gmail.com
 - **Fanpage** {% include button.html text="Binhminh Knowledge" link="https://www.facebook.com/bmbetter" color="#f28445" %}
 - **Có thể gặp mặt trao đổi trực tiếp**
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEkttjwH1s&#x2F;view?embed">
-  </iframe>
-</div>
 
 
 ###### Updated 21/07/2021
