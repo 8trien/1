@@ -109,7 +109,7 @@ Dự án có hoạt động liên quan đến sách (tặng sách, hội sách,.
 - `Fanpage:` [Binhminh Knowledge](https://www.facebook.com/bmbetter)
 - _Có thể gặp mặt trao đổi trực tiếp_
 
-📝 Dự án có một group facebook riêng, với hình thức tuyển và nội dung hoạt động khá tương tự.
+📝 Dự án có một [group facebook](https://www.facebook.com/groups/1164302813983545) riêng, với hình thức tuyển và nội dung hoạt động khá tương tự.
 
 ##### Chúc dự án phát triển, chúc mọi người một ngày đẹp trời.
 `Updated 21/07/2021`
