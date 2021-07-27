@@ -53,7 +53,6 @@ Tạo ra một sân chơi tập hợp những bạn trẻ ham học hỏi và mo
 ##### Ban Tổ chức
 ###### Mô tả công việc:
 - Tổ chức các buổi gặp mặt và hoạt động cộng đồng.
-- Lên kế hoạch cho các buổi bonding kết nối các thành viên.
 - Giữ cho các thành viên luôn thân thiện, hòa đồng với nhau.
 - Nhắc nhở, đốc thúc mọi người hoàn thành công việc đúng thời hạn đã giao.
 - Trực tiếp làm việc và đón tiếp nhà tài trợ/khách mời tại các sự kiện.
