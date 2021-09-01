@@ -11,7 +11,7 @@ Dự án [Binhminh Knowledge](https://www.facebook.com/bmbetter) của một nh�
 
 {% include button.html text="Sustainable Development Goal 4" icon="world" link="https://sdgs.un.org/goals/goal4" color="#0d94e7" %}
 
-##### Sứ mệnh
+##### Mục đích
 Tạo ra một sân chơi tập hợp những bạn trẻ ham học hỏi và mong muốn được chia sẻ những kiến thức của bản thân ở nhiều lĩnh vực đến với mọi người.
 
 ##### Hoạt động
